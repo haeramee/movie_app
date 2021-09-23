@@ -170,15 +170,3 @@ const LoadingComments = [
   }
 
   export default RandMbti;
-
-
-//   {/* function LoadingPage() {
-//     const data = LoadingComments[Math.floor(Math.random()*16)];
-//     const mappedComments = data.comment.map((item, index)=><h1 key={index}>{item}</h1>)
-//     return (
-//         <div>
-//             <h1>{data.mbti}</h1>
-//             {mappedComments}
-//         </div>
-//     )
-// }; */}
