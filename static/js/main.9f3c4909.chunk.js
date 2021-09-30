@@ -1,0 +1,2 @@
+(this.webpackJsonpmovie_app=this.webpackJsonpmovie_app||[]).push([[0],{27:function(t,e,n){"use strict";n.r(e);n(0);var i=n(13),c=n.n(i),s=n(14),a=n(1),o=n(6);var r=function(){return Object(o.jsx)("span",{children:"About this page: This is my first time in coding with React"})};var p=function(){return Object(o.jsx)(s.a,{children:Object(o.jsx)(a.a,{path:"/about",component:r})})};c.a.render(Object(o.jsx)(p,{}),document.getElementById("root"))}},[[27,1,2]]]);
+//# sourceMappingURL=main.9f3c4909.chunk.js.map
